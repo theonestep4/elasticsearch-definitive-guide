@@ -64,7 +64,7 @@ echo 'marvel.agent.enabled: false' >> ./config/elasticsearch.yml
 [[running-elasticsearch]]
 === Running Elasticsearch
 
-Elasticsearch is now ready to run. ((("Elasticsearch", "running")))You can start it up in the foreground
+An Elasticsearch _node_ is now ready to run. ((("Elasticsearch", "running")))You can start it up in the foreground
 with this:
 
 [source,sh]
